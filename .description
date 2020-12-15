@@ -1,10 +1,11 @@
 ---
-title: "Studentportaal Overzichtspagina"  # Same as repo name but with spaces and caps 
-description: "short description"          # Max. 280 characters in description
-semester: 1                      # Please choose only one semester
-sprint: 2                        # Please choose only one sprint
+title: "Overzichtspagina"         # Same as repo name but with spaces and caps 
+client: "Studentportaal"          # Name of the client for this task
+description: "short description"  # Max. 280 characters in description
+semester: 1                       # Please choose only one semester
+sprint: 2                         # Please choose only one sprint
 support-level: 1                  # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
-behavior-criteria:                  # These criteria determine the skill level of a task
+behavior-criteria:                # These criteria determine the skill level of a task
   collaboration: 1                # compared to the whole curriculum on a 6 point scale.
   learning-capacity: 1            # Make sure you understand the levels before changing
   problem-solving: 1              # these in a task. In general 0-2 will be used for tasks
