@@ -1,6 +1,6 @@
 ---
 title: "Overzichtspagina"         # Same as repo name but with spaces and caps 
-client: "Studentportaal"          # Name of the client for this task
+client: "FDND"          # Name of the client for this task
 description: "short description"  # Max. 280 characters in description
 semester: 1                       # Please choose only one semester
 sprint: 2                         # Please choose only one sprint
