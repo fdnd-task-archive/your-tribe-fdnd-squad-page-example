@@ -1,10 +1,10 @@
 # Squad page
 
-Maak met je een team een Squad pagina waar alle visitekaartje worden gepresenteerd. 
+Je bestudeert het ontwerpen en maken van een squadpagina en bekijkt daarbinnen de semantiek in de HTML, de opmaak in CSS en de functionaliteit in Javascript.
 
 ## Context
 
-Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een example die je in een team uitvoert voor FDND.
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een voorbeeld taak en wordt behandeld tijdens de workshop. Je kunt deze repository gebruiken om de onderwerpen nog eens rustig na te lezen.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
