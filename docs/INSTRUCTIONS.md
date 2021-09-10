@@ -50,7 +50,7 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 
 #### Materiaal ontwerpfase
 
-- [Inspiratie](https://www.webdesign-inspiration.com/)
+- [Inspiratie](https://www.webdesign-inspiration.com/)(https://www.awwwards.com/95-inspiring-websites-of-web-design-agencies.html#google_vignette)
 - [Resource](https://example.com)
 - [Resource](https://example.com)
 
