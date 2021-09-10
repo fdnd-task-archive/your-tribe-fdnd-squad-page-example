@@ -55,8 +55,8 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 - [Awwwards.com](https://www.awwwards.com/95-inspiring-websites-of-web-design-agencies.html#google_vignette)
   
   2. Schetsen
-- [The importance of sketching in web design](https://www.secretstache.com/blog/importance-sketching-web-design/)
-- [Resource](https://example.com)
+- [Artikel: The importance of sketching in web design](https://www.secretstache.com/blog/importance-sketching-web-design/)
+- [Video: How To Sketch Wireframes—Web Design ](https://www.youtube.com/watch?v=ciL6FxkoLsw)
 
 </details>
 
