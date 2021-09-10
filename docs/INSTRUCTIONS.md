@@ -52,7 +52,7 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 
   1. Inspiratie
 - [Webdesign-inspiration.com](https://www.webdesign-inspiration.com/)
-  [Awwwards.com](https://www.awwwards.com/95-inspiring-websites-of-web-design-agencies.html#google_vignette)
+- [Awwwards.com](https://www.awwwards.com/95-inspiring-websites-of-web-design-agencies.html#google_vignette)
 - [Resource](https://example.com)
 - [Resource](https://example.com)
 
