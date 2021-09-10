@@ -44,9 +44,9 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Inspiratie zoeken
+2. Verschillende opties schetsen (divergeren)
+3. Selecteren (convergeren)
 
 #### Materiaal ontwerpfase
 
