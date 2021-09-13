@@ -75,6 +75,7 @@ Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwe
 
 De code schrijf je in een code-editor zoals Visual Studio Code. Alle code van je project zet je op Github zodat docenten en studiegenoten kunnen zien wat je hebt gedaan.
 
+<!--
 <details>
 <summary>Aanpak</summary>
 
@@ -89,12 +90,14 @@ De code schrijf je in een code-editor zoals Visual Studio Code. Alle code van je
 - [Resource](https://example.com)
 
 </details>
+-->
 
 ### Integreren
 In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
 
 Eerst voeg je de nieuwe code toe aan je lokale repository zodat Github weet wat de nieuwste versie is. Daarna ga je de code uploaden naar de online repository op Github. Tot slot ga je je opdracht publiceren met behulp van Github Pages. Als je dat hebt gedaan staat je website online en hebb je een url, nu kunnen anderen je werk ook zien.
 
+<!--
 <details>
 <summary>Aanpak</summary>
 
@@ -109,10 +112,12 @@ Eerst voeg je de nieuwe code toe aan je lokale repository zodat Github weet wat 
 - [Resource](https://example.com)
 
 </details>
+-->
 
 ### Testen
 *In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
 
+<!--
 <details>
 <summary>Aanpak</summary>
 
@@ -127,3 +132,4 @@ Eerst voeg je de nieuwe code toe aan je lokale repository zodat Github weet wat 
 - [Resource](https://example.com)
 
 </details>
+-->
