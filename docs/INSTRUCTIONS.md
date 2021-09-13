@@ -115,7 +115,7 @@ Eerst voeg je de nieuwe code toe aan je lokale repository zodat Github weet wat 
 -->
 
 ### Testen
-*In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.*
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.
 
 <!--
 <details>
