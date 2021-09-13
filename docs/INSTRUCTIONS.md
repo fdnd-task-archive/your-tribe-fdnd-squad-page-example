@@ -16,7 +16,7 @@ Na het volgen van deze opdracht heb je een beginnend idee over samenwerken in te
 
 ## Werkwijze
 
-Dit is een *voorbeeld* taak die wordt behandeld in het bijhorende talk. Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
+Dit is een *voorbeeld* taak die wordt behandeld in de bijhorende talks en workshops. Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
 ### Analyseren
 In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voeren en formuleer je een aantal uitgangspunten waar je ontwerp aan moet voldoen.
@@ -24,15 +24,9 @@ In de analysefase inventariseer je wat er moet gebeuren om een taak uit te voere
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
-
-#### Materiaal analysefase
-
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+1. Lees de instructies van deze leertaak zorgvuldig door
+2. Bekijk de verschillende fases van de Development Lifecycle en wat je per stap gaat doen
+3. Bepsreek met jouw team wat je aan werk verwacht en maak aantekingen. (Wat komt je bekend voor, wat heb je al vaker gedaan of wat lijkt je lastig)
 
 </details>
 
@@ -44,15 +38,27 @@ Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien. Dit is e
 <details>
 <summary>Aanpak</summary>
 
-1. Inspiratie zoeken
-2. Verschillende opties schetsen (divergeren)
-3. Selecteren (convergeren)
+1. Bekijk de visitekaartjes van jouw klasgenoten en benoem verschillen en overeenkomsten. Noteer deze op post-it notes.
+2. Zoek individueel tenminste tien voorbeelden van overzichtspagina's en verzamel die gezamenlijk in Miro.
+3. Schets individueel minstens tien manieren waarop je de overzichtspagina zou kunnen vormgeven.
+4. Maak gezamenlijk een selectie van de drie beste schetsen.
+5. Deel de drie schetsen met de squad door middel van een korte presentatie, vraag om feedback.
+6. Maak een selectie, voeg eventueel schetsen samen, maak als team een definitieve schets.
+  
 
 #### Materiaal ontwerpfase
+
+- Pen en papier
+- Laptop (voor Miro)
 
   1. Inspiratie
 - [Webdesign-inspiration.com](https://www.webdesign-inspiration.com/)
 - [Awwwards.com](https://www.awwwards.com/95-inspiring-websites-of-web-design-agencies.html#google_vignette)
+- [Team & About Pages @ Awwwards.com](https://www.awwwards.com/awwwards/collections/about-page/)
+- [The Webby Awards](https://www.webbyawards.com/)
+- [20 Best 'Meet the Team' Pages We've Ever Seen @ Hubspot](https://blog.hubspot.com/marketing/creative-agency-team-pages)
+- [15 Kickass Meet the Team Pages You Need to Check Out @ BluLeadz](https://www.bluleadz.com/blog/10-kickass-meet-the-team-page-examples)
+- [30 BEST MEET THE TEAM PAGES EXAMPLES AND TRENDS @ amasty](https://amasty.com/blog/30-best-meet-the-team-pages-examples-and-trends/)
   
  2. Schetsen
 - [Artikel: The importance of sketching in web design](https://www.secretstache.com/blog/importance-sketching-web-design/)
