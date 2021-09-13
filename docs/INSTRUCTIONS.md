@@ -1,3 +1,5 @@
+![Squadpage](minorTribe.png "Squadpage")
+
 # Squad page
 
 Je bestudeert het ontwerpen en maken van een squadpagina en bekijkt daarbinnen de semantiek in de HTML, de opmaak in CSS en de functionaliteit in Javascript.
