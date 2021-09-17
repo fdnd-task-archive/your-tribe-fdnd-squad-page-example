@@ -75,22 +75,21 @@ Op basis van je ontwerpschets ga je bedenken hoe je je ontwerp in code kan bouwe
 
 De code schrijf je in een code-editor zoals Visual Studio Code. Alle code van je project zet je op Github zodat docenten en studiegenoten kunnen zien wat je hebt gedaan.
 
-<!--
 <details>
 <summary>Aanpak</summary>
 
-1. {geef de stappen}
-2. {die in deze fase}
-3. {doorlopen worden}
+1. Bouw met HTML, CSS en Javascript jouw squadpagina.
 
 #### Materiaal bouwfase
 
-- [Resource](https://example.com)
-- [Resource](https://example.com)
-- [Resource](https://example.com)
+- [Barebone Chat @ ju5tu5' GitHub](https://github.com/ju5tu5/barebonechat)
+- [Neumorphism in user interfaces @ UX Collective](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6)
+- [Neumorphism Generator](Neumorphism.io)
+- [Level up your CSS Selector Skills @ LogRocket](https://blog.logrocket.com/level-up-your-css-selector-skills/)
+- [CSS Animated Backgrounds @ sliderrevolution](https://www.sliderrevolution.com/resources/css-animated-background/)
+- [The Shapes of CSS @ CSS-Tricks](https://css-tricks.com/the-shapes-of-css/)
 
 </details>
--->
 
 ### Integreren
 In de integratiefase voer je de aanpassingen door zodat iedereen ze kan zien.
