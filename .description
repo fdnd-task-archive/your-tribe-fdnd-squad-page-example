@@ -6,11 +6,11 @@ semester: 1
 sprint: 1                       
 support-level: 1                 
 behavior-criteria:                  
-  collaboration: 0                
+  collaboration: 1                
   learning-capacity: 1            
   problem-solving: 1              
   act-methodically: 1             
-  communicating: 0                
+  communicating: 1                
 collaborators: 1                  
 tags:                               
   - huisstijl                                        
